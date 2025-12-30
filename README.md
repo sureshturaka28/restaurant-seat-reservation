@@ -90,7 +90,7 @@ REST APIs
 
 ---------------------------------------------------------------------------
 
-📂 Project Structure
+ Project Structure
 mcq-test-engine/
 │
 ├── backend/
@@ -115,7 +115,7 @@ mcq-test-engine/
 └── README.md
 
 ---------------------------------------------------------------------------
-🔐 Authentication & Roles
+ Authentication & Roles
 
 JWT tokens stored in localStorage
 
@@ -133,7 +133,7 @@ Users can only access their own data
 
 ---------------------------------------------------------------------------
 
-📊 Database Models
+ Database Models
 User
 
 email
